@@ -19,7 +19,7 @@ body {
 }
 
 .site-title, .main-menu {
-    font-family: "American Typewriter", serif;
+    font-family: "SignPainter", serif;
     font-weight: 700;
     filter: blur(1px);
     text-shadow: 0px 0px 8px coral;
@@ -32,10 +32,10 @@ body {
 }
 
 #contentArea {
-    font-family: "SignPainter", sans-serif;
+    font-family: "American Typewriter";
     font-weight: 700;
-    font-size: 2.3em;
-    color: crimson;
+    font-size: 2em;
+    color: red;
     text-shadow: 0px 0px 8px black;
     filter: motionBlur(1.5em);
 }
