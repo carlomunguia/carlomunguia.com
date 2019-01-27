@@ -33,8 +33,7 @@ body {
 
 #contentArea {
     font-family: "American Typewriter";
-    font-weight: 700;
-    font-size: 2em;
+    font-size: 1.6em;
     color: red;
     text-shadow: 0px 0px 8px black;
     filter: motionBlur(1.5em);
