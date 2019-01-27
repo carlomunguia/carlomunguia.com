@@ -1,3 +1,14 @@
-table {
-    width: 100%;
+.main-menu{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    text-align: right;
+    font-family: "American Typewriter";
+    font-weight: 700;
+}
+
+body {
+    background-color: darkturquoise;
+    padding-right: 100px;
+
 }
