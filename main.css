@@ -3,13 +3,12 @@
     top: 20px;
     right: 20px;
     text-align: right;
-    font-size: 1.5em;
 }
 
 .main-menu a {
     display: block;
     text-decoration: none;
-    font-size: 1.8em;
+    font-size: 2em;
     color: cornsilk;
     text-shadow: black 4px 4px 4px;
 }
@@ -27,14 +26,14 @@ body {
 }
 
 .site-title {
-    font-size: 2.8em;
+    font-size: 2em;
     text-shadow: black 4px 4px 4px;
 
 }
 
 #contentArea {
-    font-family: "American Typewriter";
-    font-size: 1.6em;
+    font-family: "American Typewriter", sans-serif;
+    font-size: 1.8em;
     color: black;
 }
 
