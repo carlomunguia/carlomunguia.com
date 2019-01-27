@@ -32,18 +32,14 @@ body {
 }
 
 #contentArea {
-    font-family: "Coiny Cyrillic", sans-serif;
+    font-family: "SignPainter", sans-serif;
     font-weight: 700;
-    font-size: 2em;
+    font-size: 2.3em;
     color: crimson;
     text-shadow: 0px 0px 8px black;
+    filter: motionBlur(1.5em);
 }
 
 .music-player{
     margin-bottom: 20px;
-}
-
-img {
-    opacity: inherit;
-    background-repeat: repeat-y;
 }
