@@ -23,6 +23,7 @@ body {
     font-weight: 700;
     filter: blur(1px);
     text-shadow: 0px 0px 8px coral;
+    margin-bottom: 40px;
 
 }
 
@@ -31,10 +32,18 @@ body {
 }
 
 #contentArea {
-    font-family: "Helvetica Neue", sans-serif;
+    font-family: "Coiny Cyrillic", sans-serif;
     font-weight: 700;
+    font-size: 2em;
+    color: crimson;
+    text-shadow: 0px 0px 8px black;
 }
 
 .music-player{
     margin-bottom: 20px;
+}
+
+img {
+    opacity: inherit;
+    background-repeat: repeat-y;
 }
