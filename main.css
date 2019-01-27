@@ -9,8 +9,9 @@
 .main-menu a {
     display: block;
     text-decoration: none;
-    color: red;
     font-size: 1.8em;
+    color: cornsilk;
+    text-shadow: black 4px 4px 4px;
 }
 
 body {
@@ -21,20 +22,20 @@ body {
 
 .site-title, .main-menu {
     font-family: "SignPainter", serif;
-    filter: blur(1px);
     margin-bottom: 40px;
-    color: red;
+    color: cornsilk;
 }
 
 .site-title {
     font-size: 2.8em;
+    text-shadow: black 4px 4px 4px;
+
 }
 
 #contentArea {
     font-family: "American Typewriter";
     font-size: 1.6em;
     color: black;
-    filter: motionBlur(1.5em);
 }
 
 .music-player{
