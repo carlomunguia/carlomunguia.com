@@ -20,13 +20,13 @@ body {
 }
 
 .site-title, .main-menu {
-    font-family: "SignPainter", serif;
+    font-family: "Sacramento", sans-serif;
     margin-bottom: 40px;
     color: cornsilk;
+    font-size: 1.6em;
 }
 
 .site-title {
-    font-size: 1.6em;
     text-shadow: black 4px 4px 4px;
 }
 
