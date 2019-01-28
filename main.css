@@ -26,21 +26,16 @@ body {
 }
 
 .site-title {
-    font-size: 2em;
+    font-size: 1.6em;
     text-shadow: black 4px 4px 4px;
-
 }
 
 #contentArea {
-    font-family: "American Typewriter", sans-serif;
-    font-size: 1.5em;
+    font-family: 'Righteous', cursive;
+    font-size: 1.8em;
     color: black;
 }
 
 .music-player{
     margin-bottom: 20px;
-}
-
-title {
-    font-size: 24px 22px;
 }
