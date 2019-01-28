@@ -20,7 +20,7 @@ body {
 }
 
 .site-title, .main-menu {
-    font-family: "SignPainter", serif;
+    font-family: "Audiowide", serif;
     margin-bottom: 40px;
     color: cornsilk;
 }
@@ -38,4 +38,6 @@ body {
 
 .music-player{
     margin-bottom: 20px;
+    border-left: 20px;
+    backdrop-filter: brightness(20%);
 }
