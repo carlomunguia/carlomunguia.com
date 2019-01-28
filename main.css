@@ -36,7 +36,7 @@ body {
     color: black;
 }
 
-.music-player{
+.music-player {
     margin-bottom: 20px;
     border-left: 20px;
     backdrop-filter: brightness(20%);
