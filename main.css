@@ -8,7 +8,7 @@
 .main-menu a {
     display: block;
     text-decoration: none;
-    font-size: 1.6em;
+    font-size: 1.5em;
     color: cornsilk;
     text-shadow: black 4px 4px 4px;
 }
@@ -20,10 +20,10 @@ body {
 }
 
 .site-title, .main-menu {
-    font-family: 'Grand Hotel', cursive;
+    font-family: 'Grand Hotel', cursive ;
     margin-bottom: 40px;
     color: cornsilk;
-    font-size: 1.6em;
+    font-size: 1.5em;
 }
 
 .site-title {
@@ -33,7 +33,6 @@ body {
 #contentArea {
     font-family: 'Raleway', cursive;
     font-size: 1.6em;
-    color: black;
 }
 
 .music-player {
