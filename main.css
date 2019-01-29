@@ -8,7 +8,7 @@
 .main-menu a {
     display: block;
     text-decoration: none;
-    font-size: 2em;
+    font-size: 1.8em;
     color: cornsilk;
     text-shadow: black 4px 4px 4px;
 }
@@ -20,10 +20,10 @@ body {
 }
 
 .site-title, .main-menu {
-    font-family: "SignPainter", sans-serif;
+    font-family: 'Grand Hotel', cursive;
     margin-bottom: 40px;
     color: cornsilk;
-    font-size: 1.5em;
+    font-size: 1.8em;
 }
 
 .site-title {
@@ -32,7 +32,7 @@ body {
 
 #contentArea {
     font-family: 'Raleway', cursive;
-    font-size: 1.4em;
+    font-size: 1.6em;
     color: black;
 }
 
@@ -40,4 +40,9 @@ body {
     margin-bottom: 20px;
     border-left: 20px;
     backdrop-filter: brightness(20%);
+}
+
+#container{
+    border-radius: 2em;
+    width: 100%;
 }
