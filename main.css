@@ -20,16 +20,16 @@ body {
 }
 
 .site-title, .main-menu {
-    font-family: 'Grand Hotel', cursive ;
+    font-family: 'Grand Hotel', cursive, sans-serif ;
     margin-bottom: 40px;
     color: cornsilk;
-    font-size: 1.5em;
+    font-size: 1.6em;
     text-shadow: black 4px 4px 4px;
 }
 
-#contentArea {
-    font-family: 'Raleway', cursive;
-    font-size: 1.6em;
+.contentArea {
+    font-family: 'Raleway', cursive, serif;
+    font-size: 1.3em;
 }
 
 .music-player {
@@ -38,7 +38,17 @@ body {
     backdrop-filter: brightness(20%);
 }
 
-#container{
-    border-radius: 2em;
-    width: 100%;
+.container{
+    position: fixed;
+
+}
+.zen-garden{
+    font-family: 'Raleway', sans-serif;
+    display: inline-block;
+    font-size: 1.5em;
+}
+
+.site-title{
+    font-weight: 700;
+    font-size: 2em;
 }
