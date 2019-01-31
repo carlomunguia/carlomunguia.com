@@ -10,7 +10,6 @@
     text-decoration: none;
     font-size: 1.5em;
     color: cornsilk;
-    text-shadow: black 4px 4px 4px;
 }
 
 body {
@@ -19,14 +18,14 @@ body {
 }
 
 .site-title, .main-menu {
-    font-family: 'Grand Hotel', cursive, sans-serif;
+    font-family: 'Raleway', cursive, sans-serif;
     color: cornsilk;
     font-size: 1.6em;
-    text-shadow: black 4px 4px 4px;
+    text-shadow: black 1px 1px 4px;
 }
 
 .contentArea {
-    font-family: 'Raleway', cursive, serif;
+    font-family: 'Roboto', cursive, serif;
     font-size: 1.2em;
 }
 
@@ -36,13 +35,6 @@ body {
     backdrop-filter: brightness(20%);
 }
 
-.container {
-    width: 100vw;
-    position: relative;
-    margin-left: -50vw;
-    height: 100px;
-    left: 50%;
-}
 
 .zen-garden {
     font-family: 'Raleway', sans-serif;
@@ -53,4 +45,8 @@ body {
 .site-title {
     font-weight: 700;
     font-size: 1.6em;
+}
+
+@media screen and {
+
 }
