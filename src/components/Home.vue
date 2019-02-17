@@ -6,11 +6,11 @@
     <div>I'm learning to program in the following languages & frameworks:</div>
     <ul>
       <li>HTML/CSS/BOOTSTRAP</li>
-      <li>JAVA/JAVASCRIPT/JQUERY</li>
-      <li>NODEJS/EXPRESS/VUEJS</li>
-      <li>RUBY/RAILS/SASS</li>
+      <li>JAVA/JAVASCRIPT/VUE.JS</li>
+      <li>RUBY/RAILS/HANAMI</li>
+      <li>SPRING/HIBERNATE/MYSQL</li>
+      <li>GO/REACT/SWIFT</li>
       <li>PYTHON/FLASK/DJANGO</li>
-      <li>SWIFT/SPRING/HIBERNATE</li>
     </ul>
   </div>
   <div class="contentArea>">
