@@ -55,7 +55,7 @@ body {
 .contentArea {
   font-family: 'Raleway', serif;
   font-weight: 700;
-  font-size: 3em;
+  font-size: 2em;
   /*background-color: crimson;*/
 
 }
