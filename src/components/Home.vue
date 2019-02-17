@@ -1,24 +1,18 @@
 <template>
 <div>
-  <hr>
-  <div class="contentArea">
-    <p>This is the professional landing environment for Carlo Munguia : Software Developer!</p>
-    <div>I'm learning to program in the following languages & frameworks:</div>
-    <ul>
-      <li>HTML/CSS/BOOTSTRAP</li>
-      <li>JAVA/JAVASCRIPT/VUE.JS</li>
-      <li>RUBY/RAILS/HANAMI</li>
-      <li>SPRING/HIBERNATE/MYSQL</li>
-      <li>GO/REACT/SWIFT</li>
-      <li>PYTHON/FLASK/DJANGO</li>
-    </ul>
+  <div class="contentArea shadow-lg">
+<ul class="card card-body mt-5 shadow-lg">
+  <li class="btn btn-primary btn-lg text-center">SOFTWARE DEVELOPER/PROGRAMMER/JOB-SEEKER</li>
+  <li class="btn btn-primary btn-lg btn-danger">EMAIL: carlo.munguia.82@gmail.com</li>
+  <li class="btn btn-primary btn-lg btn-warning">CELL: 281.898.8279</li>
+  <a href="https://github.com/carlomunguia" class="btn btn-primary btn-lg btn-info">GIT</a>
+</ul>
   </div>
-  <div class="contentArea>">
-    Flow FREELY to each section & feel the Zen of CARLO!
+  <div class="contentArea">
+
   </div>
   <span>
         <br>
-        <hr>
     </span>
 </div>
 </template>

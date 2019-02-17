@@ -1,16 +1,16 @@
 <template>
   <div id="app">
     <menu class="main-menu">
-      <router-link to="/">Home</router-link>
-      <router-link to="/r">Resume</router-link>
-      <router-link to="/z">Zen</router-link>
-      <router-link to="/m">Music</router-link>
+      <router-link to="/">HOME</router-link>
+      <router-link to="/r">RESUME</router-link>
+      <router-link to="/z">ZEN</router-link>
+      <router-link to="/m">MUSIC</router-link>
     </menu>
     <div class="site-title">
 
       <header class="site-title">
-        <small>The Zen Of</small><br>
-        Carlo Munguia
+        <small>ZEN OF</small><br>
+        CARLO MUNGUIA
       </header>
 
     </div>
@@ -37,6 +37,7 @@ export default {
   text-decoration: none;
   font-size: 1.5em;
   color: cornsilk;
+
 }
 
 body {
@@ -45,15 +46,18 @@ body {
 }
 
 .site-title, .main-menu {
-  font-family: 'Raleway', cursive, sans-serif;
+  font-family: 'Futura', cursive, sans-serif;
   color: cornsilk;
   font-size: 1.6em;
   text-shadow: black 1px 1px 4px;
 }
 
 .contentArea {
-  font-family: 'Roboto', cursive, serif;
-  font-size: 1.2em;
+  font-family: 'Raleway', serif;
+  font-weight: 700;
+  font-size: 3em;
+  /*background-color: crimson;*/
+
 }
 
 .music-player {
