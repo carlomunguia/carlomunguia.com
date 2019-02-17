@@ -53,7 +53,7 @@ body {
 }
 
 .contentArea {
-  font-family: 'Raleway', serif;
+  font-family: 'Righteous', cursive;
   font-weight: 700;
   font-size: 2em;
   /*background-color: crimson;*/
