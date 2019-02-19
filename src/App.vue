@@ -55,7 +55,7 @@ body {
 .contentArea {
   font-family: 'Righteous', cursive;
   font-weight: 700;
-  font-size: 2em;
+  font-size: 1.6em;
   /*background-color: crimson;*/
 
 }
