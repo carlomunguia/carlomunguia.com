@@ -3,7 +3,7 @@
     <menu class="main-menu">
       <router-link to="/">HOME</router-link>
       <router-link to="/r">RESUME</router-link>
-      <router-link to="/z">ZEN</router-link>
+      <router-link to="/z">PORTFOLIO</router-link>
       <router-link to="/m">MUSIC</router-link>
     </menu>
     <div class="site-title">
@@ -41,7 +41,7 @@ export default {
 }
 
 body {
-  background-color: darkturquoise;
+  background-color: deepskyblue;
   padding-right: 160px;
 }
 
