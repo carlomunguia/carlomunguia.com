@@ -2,8 +2,8 @@
 
   <div class="container w-100" id="boxcolor">
     <table class="card bg-secondary">
-      <tr class="btn btn-secondary text-left">software-developer => </tr>
-      <tr class="btn btn-warning mr-3 text-right"> <= job-seeker</tr>
+      <tr class="btn btn-secondary text-left">software-developer</tr>
+      <tr class="btn btn-warning mr-3 text-right"> job-seeker</tr>
       <tr class="btn btn-secondary">human-being</tr>
     </table>
 

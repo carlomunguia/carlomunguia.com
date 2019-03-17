@@ -56,6 +56,7 @@ body {
   color: cornsilk;
   font-size: 1.4rem;
   text-shadow: black 1px 1px 4px;
+  z-index: 1;
 }
 
 #boxcolor {
