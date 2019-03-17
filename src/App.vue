@@ -82,7 +82,4 @@ body {
   font-weight: 700;
   font-size: 1.4em;
 }
-
-
 </style>
-
