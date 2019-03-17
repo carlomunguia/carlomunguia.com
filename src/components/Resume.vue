@@ -1,38 +1,39 @@
 <template>
-  <div class="container content-area">
-    <h1 class="card text-center bg-secondary text-white">carlo munguia :: web designer</h1>
-    <div class="card bg-secondary">
-      <h2 class="card bg-secondary text-white">language-stack</h2>
-      <ul class="card-sm bg-secondary">
-        <li class="font-weight-bold">css</li>
-        <li class="font-weight-bold">html</li>
-        <li class="font-weight-bold">go</li>
-        <li class="font-weight-bold">java</li>
-        <li class="font-weight-bold">javascript</li>
-        <li class="font-weight-bold">ruby</li>
+  <div class="container content-area w-100">
+    <h1 class="btn text-center btn-secondary text-white align-middle">carlo munguia :: full-stack web designer</h1>
+    <div class=" bg-secondary justify-content-left">
+      <h2 class="btn btn-success">language-stack</h2>
+      <ul class="bg-secondary">
+        <li class="btn font-weight-bold btn-warning">css</li>
+        <li class="btn font-weight-bold btn-primary">html</li>
+        <li class="btn font-weight-bold btn-warning">go</li>
+        <li class="btn font-weight-bold btn-primary ">java</li>
+        <li class="btn font-weight-bold btn-warning">javascript</li>
+        <li class="btn font-weight-bold btn-primary">ruby</li>
       </ul>
-      <div class="card bg-secondary content-area">
-        <h2 class="card bg-secondary text-white text-right">front-end frameworks</h2>
-        <ul class="card-sm bg-secondary">
-          <li class="font-weight-bold">bootstrap</li>
-          <li class="font-weight-bold">ember</li>
-          <li class="font-weight-bold">jQuery</li>
-          <li class="font-weight-bold">node.js</li>
-          <li class="font-weight-bold">react</li>
-          <li class="font-weight-bold">spring</li>
-          <li class="font-weight-bold">vue</li>
+      <div class="bg-secondary content-area">
+        <h2 class="btn btn-success">front-end frameworks</h2>
+        <ul class="bg-secondary">
+          <li class="btn btn-primary font-weight-bold">bootstrap</li>
+          <li class="btn btn-warning font-weight-bold">ember</li>
+          <li class="btn btn-primary font-weight-bold">jQuery</li>
+          <li class="btn btn-warning font-weight-bold">node.js</li>
+          <li class="btn btn-primary font-weight-bold">rails</li>
+          <li class="btn btn-warning font-weight-bold">react</li>
+          <li class="btn btn-primary font-weight-bold">spring</li>
+          <li class="btn btn-warning font-weight-bold">vue</li>
         </ul>
       </div>
-      <div class="card bg-secondary">
-        <h2 class="card bg-secondary text-white text-left">back-end stack</h2>
-        <ul class="card-sm bg-secondary">
-          <li class="font-weight-bold">bootstrap</li>
-          <li class="font-weight-bold">ember</li>
-          <li class="font-weight-bold">jQuery</li>
-          <li class="font-weight-bold">node.js</li>
-          <li class="font-weight-bold">react</li>
-          <li class="font-weight-bold">spring</li>
-          <li class="font-weight-bold">vue</li>
+      <div class="bg-secondary content-area">
+        <h2 class="btn btn-success text-left">back-end stack</h2>
+        <ul class="bg-secondary">
+          <li class="btn btn-warning font-weight-bold">apache</li>
+          <li class="btn btn-primary font-weight-bold">broccoli</li>
+          <li class="btn btn-warning font-weight-bold">cocoa-pods</li>
+          <li class="btn btn-primary font-weight-bold">npm</li>
+          <li class="btn btn-warning font-weight-bold">postgres-sql</li>
+          <li class="btn btn-primary font-weight-bold">sql</li>
+          <li class="btn btn-warning font-weight-bold">yarn</li>
         </ul>
       </div>
 
@@ -42,14 +43,12 @@
 
   </div>
 </template>
-
+/* eslint-disable */
 <script>
   export default {
     name: 'Resume',
     data() {
-      return {
-        msg: 'This is Resume'
-      }
+      return {msg: 'This is Resume'}
     }
   }
 </script>

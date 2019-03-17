@@ -44,7 +44,7 @@ export default {
 
 body {
   background-color: cornflowerblue;
-  padding-right: 130px;
+  padding-right: 100px;
   font-size: 16px;
 }
 

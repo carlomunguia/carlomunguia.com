@@ -1,12 +1,12 @@
 <template>
 
-  <div class="container w-100 mt-5" id="boxcolor">
-    <div class="card bg-secondary">
-      <div class="btn btn-secondary text-left">software-developer -></div>
-      <div class="btn btn-warning mr-3 text-right text-white"> <- job-seeker</div>
-      <div class="btn btn-secondary">human-being</div>
+  <div class="container w-100" id="boxcolor">
+    <table class="card bg-secondary">
+      <tr class="btn btn-secondary text-left">software-developer => </tr>
+      <tr class="btn btn-warning mr-3 text-right"> <= job-seeker</tr>
+      <tr class="btn btn-secondary">human-being</tr>
+    </table>
 
-    </div>
     <div>
       <br>
     </div>
