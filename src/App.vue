@@ -1,15 +1,15 @@
 <template>
   <div id="app">
     <menu class="main-menu">
-      <router-link to="/">HOME</router-link>
-      <router-link to="/r">RESUME</router-link>
-      <router-link to="/z">PORTFOLIO</router-link>
-      <router-link to="/m">MUSIC</router-link>
+      <router-link to="/">home</router-link>
+      <router-link to="/r">resume</router-link>
+      <router-link to="/z">portfolio</router-link>
+      <router-link to="/m">music</router-link>
     </menu>
     <div class="site-title">
 
       <header class="site-title">
-        <small>ZEN OF</small><br>
+        <small>zen of</small><br>
         CARLO MUNGUIA
       </header>
 
@@ -41,19 +41,19 @@ export default {
 }
 
 body {
-  background-color: deepskyblue;
+  background-color: #706993	;
   padding-right: 160px;
 }
 
 .site-title, .main-menu {
-  font-family: 'Futura', cursive, sans-serif;
+  font-family: 'Poiret One', cursive;
   color: cornsilk;
   font-size: 1.6em;
   text-shadow: black 1px 1px 4px;
 }
 
 .contentArea {
-  font-family: 'Righteous', cursive;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 1.6em;
   /*background-color: crimson;*/

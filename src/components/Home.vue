@@ -1,34 +1,34 @@
 <template>
-<div>
+<div class="container bg-secondary align-justify-content ml-2 w-100">
   <div class="contentArea">
-<ul class="card card-body mt-5 ml-4 bg-dark">
+<ul class="card card-body mt-5 ml-4 bg-secondary">
   <li class="btn btn-primary btn-lg ">SOFTWARE DEVELOPER/PROGRAMMER/JOB-SEEKER</li>
-  <li class="btn btn-warning btn-lg ">LANGUAGES: CSS/ERLANG/GO/HASKELL/HTML/JAVA/JAVASCRIPT/RUBY</li>
-  <li class="btn btn-secondary btn-lg ">FRAMEWORKS(FRONT):BOOTSTRAP/DJANGO/FLASK/HANAMI/HIBERNATE/RAILS/ </li>
-  <li class="btn btn-danger btn-lg ">FRAMEWORKS(BACK):NPM/JQUERY/PHP</li>
+  <li class="btn btn-secondary btn-lg ">LANGUAGE-STACK: CSS/HTML/GO/JAVA/JAVASCRIPT/RUBY</li>
+  <li class="btn btn-primary btn-lg ">FRAMEWORKS(FRONT):BOOTSTRAP/EMBER/JQUERY/REACT/SPRING/VUE</li>
+  <li class="btn btn-secondary btn-lg ">FRAMEWORKS(BACK):NPM/NODE.JS/POSTGRES-SQL</li>
   <a href="https://github.com/carlomunguia" class="btn btn-primary">GIT</a>
 </ul>
   </div>
   <section class="contentArea">
-    <div class="card card-deck m-5 ml-4 bg-dark bg-dark">
+    <div class="card card-deck m-5 ml-4 bg-secondary">
       <div class="card">
         <div class="card-body bg-primary">
-          <h4 class="card-title">BINARY TREE OF LIFE</h4>
+          <h4 class="card-title">Humanity & Technology Deserve to Be Together</h4>
           <p class="card-text">
-            LEARNING THE KEY PAIR VALUE OF LIFE - VIA CODING, VIA PURE SYNTAX
+            My Passion, My Goals - are simple, minimal; To help others as much as possible with my technologies.
           </p>
         </div>
       </div>
       <div class="card">
-        <div class="card-body bg-danger">
-          <h4 class="card-title">A CHANCE TO TRANSFORM</h4>
+        <div class="card-body bg-secondary">
+          <h4 class="card-title">Minimal, Zen Technological Solutions</h4>
           <p class="card-text">
             ONE BYTE, ONE SLICE, ONE ITERATION AT A TIME - THIS WORLD WILL BE CHANGED!
           </p>
         </div>
       </div>
       <div class="card">
-        <div class="card-body bg-warning">
+        <div class="card-body bg-primary">
           <h4 class="card-title">A FUTURIST WITH A SENSE OF SPIRIT</h4>
           <p class="card-text">PURE CODE CASCADING AND FLOWING TO US ALL - ALWAYS! 2019 IS A DIFFERENT WORLD </p>
         </div>
