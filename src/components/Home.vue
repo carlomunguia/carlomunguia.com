@@ -1,40 +1,18 @@
 <template>
 
-  <div class="container w-100 " id="boxcolor">
-    <table class="card bg-secondary">
-      <tr class="btn btn-secondary">software-developer</tr>
-      <tr class="btn btn-warning">job-seeker</tr>
-      <tr class="btn btn-secondary">human</tr>
-    </table>
+  <div class="container w-100 mt-5" id="boxcolor">
+    <div class="card bg-secondary">
+      <div class="btn btn-secondary text-left">software-developer -></div>
+      <div class="btn btn-warning mr-3 text-right text-white"> <- job-seeker</div>
+      <div class="btn btn-secondary">human-being</div>
+
+    </div>
     <div>
       <br>
     </div>
-    <div>
-      <div class="card bg-secondary">
-        <button class="btn btn-warning">language-stack:</button>
-        <button class="btn btn-secondary">css/go/html/java/javascript/ruby</button>
-      </div>
-        <div>
-          <br>
-        </div>
-      <div class="card bg-secondary">
-        <button class="btn btn-warning">framework-stack:</button>
-        <button class="btn btn-secondary">bootstrap/ember/jquery/rails/react/spring/vue</button>
-      </div>
-        <div>
-          <br>
-        </div>
-      <div class="card bg-secondary">
-        <button class="btn btn-warning">backend-stack:</button>
-        <button class="btn btn-secondary">sql/postgres-sql/node.js/npm/yarn</button>
-      </div>
-      <div>
-        <br>
-      </div>
-    </div>
+
 </div>
 </template>
-
 <script>
 export default {
   name: 'Home',

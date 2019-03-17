@@ -3,8 +3,10 @@
     <menu class="main-menu">
       <router-link to="/">home</router-link>
       <router-link to="/r">resume</router-link>
-      <router-link to="/z">portfolio</router-link>
+      <router-link to="/p">projects</router-link>
       <router-link to="/m">music</router-link>
+      <router-link to="/g">git</router-link>
+
     </menu>
     <div class="site-title">
 
