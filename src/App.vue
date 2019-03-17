@@ -12,7 +12,7 @@
         <small>zen of</small><br>
         CARLO MUNGUIA
       </header>
-
+  <br>
     </div>
     <router-view/>
   </div>
@@ -35,29 +35,31 @@ export default {
 .main-menu a {
   display: block;
   text-decoration: none;
-  font-size: 1.5em;
+  font-size: 1.4rem;
   color: cornsilk;
 
 }
 
 body {
-  background-color: #706993	;
+  background-color: #706993;
   padding-right: 160px;
+  font-size: 16px;
 }
 
+@media screen and (max-width: 600px) { body: { font-size: 14px; } }
+
 .site-title, .main-menu {
+
   font-family: 'Poiret One', cursive;
   color: cornsilk;
-  font-size: 1.6em;
+  font-size: 1.4rem;
   text-shadow: black 1px 1px 4px;
 }
 
-.contentArea {
+.content-area,
+.btn {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
-  font-size: 1.6em;
-  /*background-color: crimson;*/
-
 }
 
 .music-player {
@@ -74,6 +76,6 @@ body {
 
 .site-title {
   font-weight: 700;
-  font-size: 1.6em;
+  font-size: 1.4em;
 }
 </style>
