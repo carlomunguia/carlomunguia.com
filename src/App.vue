@@ -41,19 +41,23 @@ export default {
 }
 
 body {
-  background-color: #706993;
-  padding-right: 160px;
+  background-color: cornflowerblue;
+  padding-right: 130px;
   font-size: 16px;
 }
 
 @media screen and (max-width: 600px) { body: { font-size: 14px; } }
 
-.site-title, .main-menu {
+.site-title, .main-menu{
 
   font-family: 'Poiret One', cursive;
   color: cornsilk;
   font-size: 1.4rem;
   text-shadow: black 1px 1px 4px;
+}
+
+#boxcolor {
+  color: navajowhite;
 }
 
 .content-area,
@@ -78,4 +82,7 @@ body {
   font-weight: 700;
   font-size: 1.4em;
 }
+
+
 </style>
+
