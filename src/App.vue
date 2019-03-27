@@ -43,7 +43,7 @@ export default {
 }
 
 body {
-  background-color: cornflowerblue;
+  background-color: #8FC0A9;
   padding-right: 100px;
   font-size: 16px;
 }
@@ -52,7 +52,7 @@ body {
 
 .site-title, .main-menu{
 
-  font-family: 'Poiret One', cursive;
+  font-family: 'Space Mono', monospace;
   color: cornsilk;
   font-size: 1.4rem;
   text-shadow: black 1px 1px 4px;
@@ -65,7 +65,7 @@ body {
 
 .content-area,
 .btn {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Work Sans', sans-serif;
   font-weight: 700;
 }
 
@@ -82,7 +82,6 @@ body {
 }
 
 .site-title {
-  font-weight: 700;
   font-size: 1.4em;
 }
 </style>
