@@ -5,15 +5,16 @@
     <div class="btn btn-danger">mobile</div>
     <div class="btn btn-danger">git repo</div>
     <div class="btn btn-danger">ember.js meetup</div>
-    <h1 class="btn-lg text-center text-white float-left">carlo munguia :: full-stack web designer</h1>
+    <h1 class="btn-lg bg-transparent text-center text-white float-left">carlo munguia :: full-stack web designer</h1>
     <br>
     <br>
-    <h2 class="btn-lg text-center text-white">summary</h2>
-    <p class="content-area card-body">
+    <br>
+    <h2 class="card bg-transparent text-center text-white">summary</h2>
+    <p class="content-area jumbotron bg-transparent">
       As an electrical conduit brought to life by a mutation within the node channel in the 9th dimension, I know something about programming.
     </p>
     <div class=" justify-content-left">
-      <h2 class="btn text-white text-center">languages</h2>
+      <h2 class="card bg-transparent text-white text-center">languages</h2>
       <ul class="ml-5 ">
         <li class="btn font-weight-bold btn-secondary">css3</li>
         <li class="btn font-weight-bold btn-secondary">html5</li>
@@ -28,7 +29,7 @@
 
       </ul>
       <div class="content-area">
-        <h2 class="btn text-left text-white">frameworks</h2>
+        <h2 class="card bg-transparent text-white text-center">frameworks</h2>
         <ul class="ml-5">
           <li class="btn btn-danger font-weight-bold">bootstrap</li>
           <li class="btn btn-danger font-weight-bold">ember</li>
@@ -43,8 +44,9 @@
         </ul>
       </div>
       <div class="content-area">
-        <h2 class="btn text-left text-white">systems</h2>
+        <h2 class="card text-center bg-transparent text-white">systems</h2>
         <ul class="ml-5">
+          <li class="btn btn-secondary font-weight-bold">apache</li>
           <li class="btn btn-secondary font-weight-bold">aws</li>
           <li class="btn btn-secondary font-weight-bold">broccoli</li>
           <li class="btn btn-secondary font-weight-bold">cocoa-pods</li>
@@ -58,7 +60,7 @@
         </ul>
       </div>
       <div class="content-area">
-        <h2 class="btn text-left text-white">tools</h2>
+        <h2 class="card bg-transparent text-center text-white">tools</h2>
         <ul class="ml-5">
           <li class="btn btn-danger font-weight-bold">intellij</li>
           <li class="btn btn-danger font-weight-bold">rubymine</li>
@@ -71,7 +73,7 @@
         </ul>
       </div>
       <div class="content-area">
-        <h1 class="btn text-center text-white">work history :: present to past</h1>
+        <h1 class="card bg-transparent text-center text-white">work history :: present to past</h1>
       </div>
     </div>
   </div>

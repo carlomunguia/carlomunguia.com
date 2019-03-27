@@ -11,8 +11,8 @@
     <div class="site-title">
 
       <header class="site-title">
-        <small>zen of</small><br>
-        CARLO MUNGUIA
+        <small> (zen of) </small><br>
+        {:carlo munguia:}
       </header>
   <br>
     </div>
