@@ -2,11 +2,6 @@
   <div class="container w-100" id="boxcolor">
     <br>
     <br>
-    <div class="card bg-secondary">
-      <div class="btn btn-secondary text-left">software-developer</div>
-      <div class="btn btn-warning mr-3 text-right"> job-seeker</div>
-      <div class="btn btn-secondary">human-being</div>
-    </div>
         </div>
 </template>
 <script>
