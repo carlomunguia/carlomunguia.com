@@ -11,14 +11,14 @@
         <div class="card bg-secondary">
           <div class="card-body">
             <h4 class="card-title">job-seeker</h4>
-            <p class="card-text text-white">currently seeking opportunites with a software development firm with the right culture
+            <p class="card-text text-white">Currently seeking opportunities with a software development firm with the right culture
               fit.</p>
           </div>
         </div>
         <div class="card bg-secondary">
           <div class="card-body">
             <h4 class="card-title">human-being</h4>
-            <p class="card-text text-white">within a crowded technological field,i feel my humanity & desire to change the world separates me from di </p>
+            <p class="card-text text-white">Within a crowded technological field,i feel my humanity & desire to change the world separates me from di </p>
           </div>
         </div>
       </div>
