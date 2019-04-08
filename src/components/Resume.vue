@@ -24,7 +24,7 @@
         <li class="btn font-weight-bold btn-secondary">javascript</li>
         <li class="btn font-weight-bold btn-secondary">ruby</li>
         <li class="btn font-weight-bold btn-secondary">rust</li>
-        <li class="btn font-weight-bold btn-secondary">sass</li>
+        <li class="btn font-weight-bold btn-secondary">typescript</li>
         <li class="btn font-weight-bold btn-secondary">swift</li>
 
       </ul>

@@ -1,5 +1,6 @@
 <template>
   <div class="container w-100" id="boxcolor">
+
     <br>
     <br>
         </div>
