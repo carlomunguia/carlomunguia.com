@@ -10,7 +10,7 @@ Vue.use(Router)
 export default new Router({
   routes: [
     {
-      path: '/',
+      path: '/h',
       name: 'Home',
       component: Home
     },
@@ -20,8 +20,8 @@ export default new Router({
       component: Resume
     },
     {
-      path: '/z',
-      name: 'Zen',
+      path: '/p',
+      name: 'Projects',
       component: Zen
     },
     {

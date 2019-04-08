@@ -1,6 +1,11 @@
 <template>
 <div>
-  {{ msg }}
+  <div class="btn-lg">
+    <a href="https://github.com/carlomunguia/vuetify-itunes">Vue.Js / Vuetify / iTunes API example</a>
+  </div>
+  <div class="btn-lg">
+    <a href="https://github.com/carlomunguia/Ahoritaa-Turq-App">Ruby on Rails SPA example</a>
+  </div>
 </div>
 </template>
 

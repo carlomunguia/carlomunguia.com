@@ -2,7 +2,7 @@
   <div id="app">
     <menu class="main-menu">
 
-      <router-link to="h">home</router-link>
+      <router-link to="/h">about</router-link>
       <router-link to="/r">resume</router-link>
       <router-link to="/p">projects</router-link>
       <router-link to="/m">music</router-link>
@@ -19,13 +19,6 @@
     <router-view/>
   </div>
 </template>
-
-<script>
- export default {
-   name: 'App'
- }
-</script>
-
 <style>
   .main-menu {
     position: fixed;

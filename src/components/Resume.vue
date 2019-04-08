@@ -1,18 +1,17 @@
 <template>
   <div class="container content-area">
-    <div class="btn btn-danger">address</div>
-    <div class="btn btn-danger">email</div>
-    <div class="btn btn-danger">mobile</div>
-    <div class="btn btn-danger">git repo</div>
-    <div class="btn btn-danger">ember.js meetup</div>
+    <div class="btn btn-danger">
+      <a href="mailto:carlo.munguia.82@gmail.com">email</a>
+    </div>
+    <div class="btn btn-danger">
+      <a href="http://www.github.com/carlomunguia">git</a> </div>
+    <div class="btn btn-danger">
+      <a href="http://www.meetup.com/EmberSA">ember.js meetup</a></div>
     <h1 class="btn-lg bg-transparent text-center text-white float-left">carlo munguia :: full-stack web designer</h1>
     <br>
     <br>
     <br>
     <h2 class="card bg-transparent text-center text-white">summary</h2>
-    <p class="content-area jumbotron bg-transparent">
-      As an electrical conduit brought to life by a mutation within the node channel in the 9th dimension, I know something about programming.
-    </p>
     <div class=" justify-content-left">
       <h2 class="card bg-transparent text-white text-center">languages</h2>
       <ul class="ml-5 ">
@@ -23,10 +22,7 @@
         <li class="btn font-weight-bold btn-secondary">java</li>
         <li class="btn font-weight-bold btn-secondary">javascript</li>
         <li class="btn font-weight-bold btn-secondary">ruby</li>
-        <li class="btn font-weight-bold btn-secondary">rust</li>
         <li class="btn font-weight-bold btn-secondary">typescript</li>
-        <li class="btn font-weight-bold btn-secondary">swift</li>
-
       </ul>
       <div class="content-area">
         <h2 class="card bg-transparent text-white text-center">frameworks</h2>
