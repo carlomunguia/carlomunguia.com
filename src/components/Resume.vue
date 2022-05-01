@@ -1,6 +1,6 @@
 <template>
   <main>
-    //TODO REDO IN PROGRESS - Resume area
+    //TODO REDO IN PROGRESS - Resume area NOT COMPLETE
   </main>
 </template>
 
