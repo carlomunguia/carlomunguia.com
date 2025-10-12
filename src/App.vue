@@ -42,7 +42,7 @@
   }
 
   @media screen and (max-width: 600px) {
-    body: {
+    body {
       font-size: 14px;
     }
   }
