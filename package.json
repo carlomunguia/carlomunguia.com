@@ -24,7 +24,7 @@
     "eslint-plugin-promise": "^6.6.0",
     "eslint-plugin-vue": "^9.28.0",
     "postcss": "^8.4.47",
-    "vite": "^5.4.9",
+    "vite": "^5.4.21",
     "vue-template-compiler": "^2.7.16"
   },
   "engines": {
