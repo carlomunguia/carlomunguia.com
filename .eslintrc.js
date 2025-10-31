@@ -5,21 +5,16 @@ module.exports = {
   env: {
     browser: true,
     es2021: true,
-    node: true
+    node: true,
   },
-  extends: [
-    'plugin:vue/essential',
-    'standard'
-  ],
+  extends: ["plugin:vue/vue3-essential", "standard"],
   parserOptions: {
     ecmaVersion: 12,
-    sourceType: 'module'
+    sourceType: "module",
   },
-  plugins: [
-    'vue'
-  ],
+  plugins: ["vue"],
   rules: {
-    'generator-star-spacing': 'off',
-    'no-debugger': process.env.NODE_ENV === 'production' ? 'error' : 'off'
-  }
-}
+    "generator-star-spacing": "off",
+    "no-debugger": process.env.NODE_ENV === "production" ? "error" : "off",
+  },
+};
